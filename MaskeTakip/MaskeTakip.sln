@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{87C2FFF5-888F-499A-87C9-BA6A501154B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{0B325D18-0261-439D-BA65-1274869F9DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{73172FC2-0C63-4F50-9FFB-E50BFF2978DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C2FFF5-888F-499A-87C9-BA6A501154B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C2FFF5-888F-499A-87C9-BA6A501154B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C2FFF5-888F-499A-87C9-BA6A501154B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C2FFF5-888F-499A-87C9-BA6A501154B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B325D18-0261-439D-BA65-1274869F9DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B325D18-0261-439D-BA65-1274869F9DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B325D18-0261-439D-BA65-1274869F9DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B325D18-0261-439D-BA65-1274869F9DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73172FC2-0C63-4F50-9FFB-E50BFF2978DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73172FC2-0C63-4F50-9FFB-E50BFF2978DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73172FC2-0C63-4F50-9FFB-E50BFF2978DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73172FC2-0C63-4F50-9FFB-E50BFF2978DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C9761F-EE17-4184-99A7-55ABCF266537}
+	EndGlobalSection
+EndGlobal
